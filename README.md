@@ -1,0 +1,2 @@
+# Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization
+This repository consists of an end-to-end ETL pipeline and interactive data visualizations for analyzing natural gas trends in the EEA from 1991 to 2020. It includes data extraction, transformation, and loading (ETL) using Pandas, static visualizations with Seaborn, and interactive dashboards built with Plotly and Dash.

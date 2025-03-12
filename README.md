@@ -15,12 +15,12 @@ This repository consists of an end-to-end ETL pipeline and static data visualiza
 │   │-- 📁 merged_dataframe   
 │   │-- 📁 merged_gdf  
 │   │-- 📁 ne_10m_admin_0_countries  
-│   │-- 📁 ne_10m_admin_0_countries_processed
-│   │-- INT-Export-12-09-2022_11-20-20_consumption.csv 
-│   │-- INT-Export-12-09-2022_11-20-20_production.csv
-│   │-- INT-Export-12-09-2022_13-21-43_imports.csv 
-│   │-- INT-Export-12-09-2022_13-22-07_exports.csv 
-│   │-- INT-Export-12-09-2022_13-22-20_reserves.csv 
+│   │-- 📁 ne_10m_admin_0_countries_processed  
+│   │-- INT-Export-12-09-2022_11-20-20_consumption.csv  
+│   │-- INT-Export-12-09-2022_11-20-20_production.csv  
+│   │-- INT-Export-12-09-2022_13-21-43_imports.csv  
+│   │-- INT-Export-12-09-2022_13-22-07_exports.csv  
+│   │-- INT-Export-12-09-2022_13-22-20_reserves.csv  
 │-- 📁 notebooks  
 │   │-- Data Driven Insights on Natural Gas in the European Economic Area (1991-2020) Using ETL & Data Visualization.ipynb  
 │-- 📁 visualizations  
@@ -29,7 +29,7 @@ This repository consists of an end-to-end ETL pipeline and static data visualiza
 │   │-- 📁 tool3  
 │   │-- 📁 tool4  
 │   │-- 📁 tool5  
-│-- 📄 README.md  
+│-- 📄 README.md
 
 - **assets:** includes images and GIF files that are used throughout the Jupyter notebook for visualizations, plots, and multimedia representations.
 - **data:** stores the various data files, such as raw and processed shapefiles, and the merged data frames and GeoDataFrames.

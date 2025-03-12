@@ -1,6 +1,14 @@
 # Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization
 This repository consists of an end-to-end ETL pipeline and interactive data visualizations for analyzing natural gas trends in the EEA from 1991 to 2020. It includes data extraction, transformation, and loading (ETL) and visualizations with Python.
 
+## **Technologies Used**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![FME](https://img.shields.io/badge/FME-FCCF00?style=for-the-badge&logo=fme&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=4B164C) ![GeoPandas](https://img.shields.io/badge/GeoPandas-00876c.svg?style=for-the-badge&logo=geopandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&color=E52020) ![Seaborn](https://img.shields.io/badge/Seaborn-1f77b4.svg?style=for-the-badge&logo=seaborn&logoColor=white&color=C14600) ![Folium](https://img.shields.io/badge/Folium-3182bd?style=for-the-badge&logo=folium&logoColor=white)![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
+
+- **Data Analysis and Processing:** Pandas, GeoPandas, FME
+- **Visualization:** Matplotlib, Seaborn,GeoPandas
+- **Mapping:** GeoPandas, Folium
+- **Notebook Environment:** Jupyter Notebook
+
 ## **Folder Structure**
 📂 Natural-Gas-EEA  
 │-- 📁 assets  
@@ -47,13 +55,7 @@ To view and run the Jupyter notebook, follow one of the methods below:
      ```bash
      jupyter notebook
      ```
-   - Open the file: `Data Driven Insights on Natural Gas in the European Economic Area (1991-2020) Using ETL & Data Visualization.ipynb`
-
-## **Technologies Used**
-- **Data Analysis and Processing**: Pandas, GeoPandas, FME
-- **Visualization**: Matplotlib, Seaborn,GeoPandas
-- **Mapping**: GeoPandas, Folium
-- **Notebook Environment**: Jupyter Notebook
+   - Open the file: `Data Driven Insights on Natural Gas in the European Economic Area (1991-2020) Using ETL & Data Visualization.ipynb
 
 ## **Results & Insights**
 - Analysis of *trends* in natural gas consumption from *1990 to 2020*.

@@ -39,14 +39,14 @@ This repository consists of an end-to-end ETL pipeline and static data visualiza
 - **README.md:** provides an overview of the project, its objectives, and instructions for usage.
 
 ## Installation
-To view and run the Jupyter notebook, follow one of the methods below:
+GitHub does not support interactive maps generated using geopandas.explore() (which relies on folium). However, you can still display the map inside your Jupyter Notebook when viewing it locally or in a Jupyter-supported environment (like Jupyter Notebook, JupyterLab, or Google Colab). To view and run the Jupyter notebook, follow one of the methods below:
 
 1. **Open in Google Colab**  
    The easiest way to open and run the notebook is by using Google Colab. Simply click the link below to open the notebook in Google Colab:
    [Open in Google Colab](https://colab.research.google.com/github/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization/blob/main/notebooks/Data%20Driven%20Insights%20on%20Natural%20Gas%20in%20the%20European%20Economic%20Area%20(1991-2020)%20Using%20ETL%20%26%20Data%20Visualization.ipynb)
    
 2. **Download and Open Locally**  
-   Alternatively, download the notebook tolocal machine and open it using Jupyter Notebook or JupyterLab:
+   Alternatively, download the notebook to local machine and open it using Jupyter Notebook or JupyterLab:
    - Clone this repository:
      ```bash
      git clone https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization.git
@@ -65,6 +65,9 @@ To view and run the Jupyter notebook, follow one of the methods below:
 - Analysis of *trends* in natural gas consumption from *1990 to 2020*.
 - **Country-wise comparisons , year wise** of gas consumption, production, export, import and reserves.
 - **Geospatial analysis** showing regional variations in usage.
+
+## Future Enhancements
+- Interactive visualizations and dashboards using Plotly/ Dash.
 
 ## **Contributing**
 Contributions are welcome! Please open an **issue** or submit a **pull request**.

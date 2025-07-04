@@ -4,6 +4,9 @@ This repository consists of an end-to-end ETL pipeline and static data visualiza
 ## **Technologies Used**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FME](https://img.shields.io/badge/FME-FCCF00?style=for-the-badge&logo=fme&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&color=4B164C) ![GeoPandas](https://img.shields.io/badge/GeoPandas-00876c.svg?style=for-the-badge&logo=geopandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&color=E52020) ![Seaborn](https://img.shields.io/badge/Seaborn-1f77b4.svg?style=for-the-badge&logo=seaborn&logoColor=white&color=C14600) ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
 
+## **Workflow**
+![Workflow](https://github.com/UpekshaIndeewari/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization/blob/main/Workflow.png)
+
 - **Data Analysis and Processing:** Pandas, GeoPandas, FME
 - **Visualization:** Matplotlib, Seaborn, GeoPandas
 - **Notebook Environment:** Jupyter Notebook
